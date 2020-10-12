@@ -1,0 +1,14 @@
+base project:
+    https://bezkoder.com/react-node-express-mysql/
+src code:
+    https://github.com/bezkoder/nodejs-express-sequelize-mysql
+rschan code:
+    https://github.com/thaske/rschan
+
+Project setup:
+    npm install
+Run:
+    cd /4pham/server
+    node server.js
+    cd client/4pham-front
+    npm start
